@@ -1,0 +1,12 @@
+prov name,prov
+Saskatchewan,SK
+Alberta,AB
+British Columbia,BC
+Nova Scotia,NS
+Manitoba,MB
+Quebec,QC
+Prince Edward Island,PE
+Newfoundland and Labrador,NL
+Ontario,ON
+Canada,CA
+New Brunswick,NB
